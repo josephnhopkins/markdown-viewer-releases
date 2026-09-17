@@ -1,7 +1,7 @@
 # Markdown viewer — releases
 
 Downloads for **Markdown viewer**, a small desktop program for reading Markdown files, from
-Nextwaveweb Ltd — Windows now, macOS and Linux to follow. What it is, the download link and
+Nextwaveweb Ltd — Windows and macOS now, Linux to follow. What it is, the download link and
 what to expect on first run are on its page:
 
 **https://nextwaveweb.co.uk/products/markdown-viewer**

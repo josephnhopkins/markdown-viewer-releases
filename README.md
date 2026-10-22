@@ -12,6 +12,7 @@ install, the first-run warning, printing, removal) and a `THIRD-PARTY-NOTICES.tx
 open-source components it is built from — `README.txt` beside the program in the Windows downloads
 and the macOS disk image, `/usr/share/doc/markdown-viewer/` once the Linux package is installed.
 
-All three platforms are at 1.2.0: for Windows an installer and a zip, for macOS a disk image signed by
-Nextwaveweb Ltd and notarized by Apple, for Linux a `.deb`. The product page links each platform's current
-download.
+Windows is at 1.3.0, an installer and a zip, which adds *Open from Webrender…* and *Save to Webrender…*.
+macOS and Linux are at 1.2.0 until their 1.3.0 follows: for macOS a disk image signed by Nextwaveweb Ltd and
+notarized by Apple, for Linux a `.deb`. GitHub's *latest* release is the Windows one, so take the Mac and Linux
+downloads from the v1.2.0 release or from the product page, which links each platform's current download.
